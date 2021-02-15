@@ -1,0 +1,12 @@
+local
+venv-pr
+*.pyc
+.DS_Store
+.env
+.ipynb_checkpoints
+app2.py
+app3.py
+Untitled.ipynb
+RUN.bat
+RUN_2.bat
+EE or CEC.xlsx
